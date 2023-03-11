@@ -1,0 +1,30 @@
+h5 {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  max-width: 67em;
+  text-align: justify;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+table {
+    margin-left: 25em;
+}
+
+.nombregato {
+  margin-left: 2em;
+}

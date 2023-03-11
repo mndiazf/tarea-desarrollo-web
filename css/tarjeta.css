@@ -1,0 +1,15 @@
+h5 {
+    text-align: right;
+    margin: 0;
+    padding: 0;
+  }
+img {
+    border: 3px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+table {
+    margin-left: 5em;
+    margin-top: 2em;
+}
